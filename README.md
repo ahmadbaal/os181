@@ -14,3 +14,5 @@ ZCZC W04 Telah mencoba melakukan demo Week04
 ZCZC W05 Telah mencoba melakukan demo Week05
 
 ZCZC W06 Telah mencoba melakukan demo Week06
+
+ZCZC W07 Telah mencoba melakukan demo Week07
